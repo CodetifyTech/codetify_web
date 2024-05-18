@@ -4,6 +4,7 @@
 		"eamodio.gitlens",
 		"esbenp.prettier-vscode",
 		"github.copilot",
-		"SonarSource.sonarlint-vscode"
+		"SonarSource.sonarlint-vscode",
+		"bradlc.vscode-tailwindcss"
 	]
 }
